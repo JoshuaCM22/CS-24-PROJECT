@@ -1,6 +1,6 @@
 # CS-24 Project
 
-* Purpose: (CS-24) Final Project of My Client 
+* Purpose: (CS-24) Final Project of my college friend
 * Programming Language: C#
 * Target Framework: .Net Framework 4.6.1
 * IDE: MS Visual Studio 2012
